@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is the index page  added
+          This is the index page  added and updated for amplify console in AWS
         </a>
       </header>
     </div>
